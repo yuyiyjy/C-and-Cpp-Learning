@@ -1,0 +1,4 @@
+﻿  WorkerManager.cpp
+D:\C++学习\基于多态的职工管理案例\WorkerManager.cpp(108,33): warning C4101: “e”: 未引用的局部变量
+D:\C++学习\基于多态的职工管理案例\WorkerManager.cpp(111,29): warning C4101: “e”: 未引用的局部变量
+  基于多态的职工管理案例.vcxproj -> D:\C++学习\基于多态的职工管理案例\x64\Debug\基于多态的职工管理案例.exe
